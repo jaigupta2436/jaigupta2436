@@ -3,7 +3,7 @@
 
 
 
-<img align="right" height="200px" width="320px" src="https://gfycat.com/carefreecluelessarcticseal" alt="image" />
+<img align="right" height="200px" width="320px" src="https://github.com/jaigupta2436/jaigupta2436/blob/main/21441_KS2_WX1_USA_Lanker-1_3_T-1_2018b.65ff20bb.gif" alt="image" />
 
 - 👩‍🎓 I'm a **Final Year Engineering undergrad student at NIT-Hamirpur**
 
