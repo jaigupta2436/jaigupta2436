@@ -5,13 +5,11 @@
 
 <img align="right" height="200px" width="320px" src="https://github.com/jaigupta2436/jaigupta2436/blob/main/21441_KS2_WX1_USA_Lanker-1_3_T-1_2018b.65ff20bb.gif" alt="image" />
 
-- 👩‍🎓 I'm a **Final Year Engineering undergrad student at NIT-Hamirpur**
+- 👩‍🎓 I'm a **Currently working on Core Java and Spring boot for Oracle FSGBU**. Making the experience of banking payments better, by contributing to the backend architecture of the Oracle product Flexcube. 
 
-- 🔭 I’m currently working on **the projects in the field of Robotics and Data Manipulation**
+- 🌱 Also exploring **Motion Planning and the field of Robotics**
 
-- 🌱 I’m currently exploring **Motion Planning**
-
-- 💬 Ask me about **Computer Vision, Mobile Robotics and 3D Design**
+- 💬 Ask me about **Backend Development, Banking Payments, Machine Learning, Computer Vision, Mobile Robotics**
 
 
 ### 💻 Make it work, make it right, make it fast. 💻
